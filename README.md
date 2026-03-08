@@ -1,23 +1,32 @@
-# AristoMusicPlayerPro4
 
-markdown
-# Project Documentation: Aristo Music Player Pro
+# Aristo Music Player Pro 4
 
-## Overview
-Aristo Music Player Pro is a modern music player designed to provide seamless audio experience across multiple platforms.
+Aristo Music Player Pro 4 is a web-based music player project designed to play, pause, and manage songs with an intuitive interface.
 
 ## Features
-- High-quality audio playback
-- Playlist management
-- Equalizer with presets
-- Offline mode
+- Play, pause, and skip music tracks
+- Control playing speed
+- Manage playlists
+- Responsive user interface for desktop and mobile
+- Basic music search functionality
+- Easy-to-understand JavaScript logic
 
-## Installation
-1. Download the latest release from [GitHub](https://github.com/AristotleRazak/AristoMusicPlayerPro4)
-2. Run the installer
-3. Follow on-screen instructions
+## File Structure
+- `index.html` — Main HTML page
+- `style.css` — Styles for layout and UI
+- `player.js` — Core JavaScript logic for playing music
+- `README.md` — Project documentation
 
-## Usage
-```bash
-# Start the application
+## How to Use
+1. Open `Aristo Music Player Pro 4.html` in your browser.
+2. Use the play/pause buttons to control music.
+3. Add songs to playlists or manage existing ones.
+4. Press J to enhance music playing and J again to change
+5. Point mouse pointer on appeared or disappeared button to select or control
+
+## Notes for AI Retrieval
+- `player.js` contains all music-playing logic.
+- `style.css` manages UI appearance.
+- `index.html` links everything together.
+
 ./AristoMusicPlayerPro
